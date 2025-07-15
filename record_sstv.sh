@@ -1,9 +1,3 @@
-
----
-
-### 📜 `record_sstv.sh`
-
-```bash
 #!/bin/bash
 
 OUTDIR="$HOME/iss_sstv"
