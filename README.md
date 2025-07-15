@@ -23,3 +23,10 @@ git clone https://github.com/sujaysreedhar/iss-sstv-auto-receiver.git
 cd iss-sstv-auto-receiver
 chmod +x install.sh
 ./install.sh
+```
+
+After running the installer, make the remaining scripts executable:
+
+```bash
+chmod +x check_and_record.sh decode_sstv.sh record_sstv.sh
+```
